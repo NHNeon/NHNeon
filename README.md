@@ -21,7 +21,7 @@
 
 - 🚀 Former CEO & Business Analyst passionate about solving real-world problems with data
 - 🧩 Skilled in Excel, Power BI, SQL, SPSS, and market research tools
-- 🌍 Focused on Customer Sentiment, CSR Impact, and Community Development
+- 🌍 Focused on Multidimensional Data Analysis, Predictive Modeling & Forecasting, and Market Segmentation & Behavioral Mapping
 - 🎯 Continuously learning and adapting to emerging technologies
 
 ---
