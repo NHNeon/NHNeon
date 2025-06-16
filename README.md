@@ -19,8 +19,8 @@
 
 ### 🧠 <span style="color:#009688">About Me</span>
 
-- 🚀 Former CEO & Business Analyst passionate about solving real-world problems with data
-- 🧩 Skilled in Excel, Power BI, SQL, SPSS, and market research tools
+- 🚀 Former Co-Founder & Business Development Manager passionate about solving real-world problems with data
+- 🧩 Skilled in Excel, Power BI, SQL, SPSS, SWOT, BCG,Blue Ocean, PESTEL and market research tools.
 - 🌍 Focused on Multidimensional Data Analysis, Predictive Modeling & Forecasting, and Market Segmentation & Behavioral Mapping
 - 🎯 Continuously learning and adapting to emerging technologies
 
