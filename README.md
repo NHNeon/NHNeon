@@ -60,7 +60,9 @@
 - 📘 Power BI Data Analyst – Microsoft
 - 📗 Business Intelligence with Excel – ASU
 - 📙 Analyzing Data with Excel – IBM
-- 🧠 Currently learning: SPSS, SQL, Tableau, Python
+- 📚 MySQL for Data Analytics and Business Intelligence
+- 🧠 Currently learning: SPSS, Tableau, Python
+  
 
 ---
 
